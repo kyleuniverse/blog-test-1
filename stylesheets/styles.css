@@ -222,7 +222,7 @@
 body {
   background-color: #fff;
   padding:50px;
-  font: 14px/1.5 "Fira Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 14px/1.5 'Fira Sans';
   color:#727272;
   font-weight:400;
 }
@@ -285,7 +285,7 @@ blockquote {
 }
 
 code, pre {
-  font-family:Fira Sans, Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
+  font-family:'Fira Sans';
   color:#333;
   font-size:12px;
 }
