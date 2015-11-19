@@ -17,6 +17,8 @@ time, mark, audio, video {
   font-size: 100%;
   vertical-align: baseline;
   border: 0;
+  
+  <link rel="stylesheet" href="//code.cdn.mozilla.net/fonts/fira.css">
 }
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
