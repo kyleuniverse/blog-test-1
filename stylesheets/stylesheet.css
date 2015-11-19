@@ -23,7 +23,6 @@ time, mark, audio, video {
 	border: 0;
 }
 
-<link rel="stylesheet" href="//code.cdn.mozilla.net/fonts/fira.css">
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
@@ -50,6 +49,7 @@ table {
 
 /* LAYOUT STYLES */
 body {
+<link rel="stylesheet" href="//code.cdn.mozilla.net/fonts/fira.css">
   font-family: 'Fira Sans';
   font-size: 1em;
   line-height: 1.5;
@@ -71,6 +71,7 @@ header {
 }
 
 header h1 {
+<link rel="stylesheet" href="//code.cdn.mozilla.net/fonts/fira.css">
   font-family: 'Fira Sans';
   font-size: 48px; font-weight: 900;
   line-height: 1.2;
